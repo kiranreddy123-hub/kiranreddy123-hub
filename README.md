@@ -4,8 +4,9 @@
 Languages:
 
 1. Python 
-2. SQL
+2. C++
 3. Reactjs
+4. SQL
 
 
 
