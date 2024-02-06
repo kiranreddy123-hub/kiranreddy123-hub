@@ -1,14 +1,13 @@
  Hi there 👋 
 
 
-Languages:
+Technical Skills:
 
-1. Python 
-2. C++
+1. Python
+2. HTML & CSS 
 3. Reactjs
 4. SQL
-
-
+5. Machine Learning
 
 Tools:
 
